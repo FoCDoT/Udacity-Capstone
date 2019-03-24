@@ -13,7 +13,7 @@ By default all the models save their weights in a _checkpoints_ folder in their 
 
 there are 2 options to run this first of all run all the preprocessing commands from the notebook then training and testing functions can be run from notebook or from the steps given below vial command line
 
-note: command line is preffered
+note: command line is preferred
 
 #### To train a model
 In the corresponding model directory run the following command
