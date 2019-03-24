@@ -1,0 +1,15 @@
+{
+  "lr": 0.01,
+  "decay": 0,
+  "epochs": 100,
+  "batch_size": 32,
+  "max_seq_len": 90,
+  "nb_words":  100000,
+  "embed_dim": 50,
+  "train_path": "./data/train.csv",
+  "test_path": "./data/test.csv",
+  "test_model_weights": "model.weights.best.hdf5",
+  "train_model_weights": null,
+  "save_folder": "./checkpoints/",
+  "tensorboard_dir": "./checkpoints/tboard"
+}
