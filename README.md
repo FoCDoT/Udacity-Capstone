@@ -11,6 +11,10 @@ link to the proposal review - https://review.udacity.com/#!/reviews/1759916
 The datasets should be a csv document with the format given in `data` directory.
 By default all the models save their weights in a _checkpoints_ folder in their corresponding directory
 
+there are 2 options to run this first of all run all the preprocessing commands from the notebook then training and testing functions can be run from notebook or from the steps given below vial command line
+
+note: command line is preffered
+
 #### To train a model
 In the corresponding model directory run the following command
 
