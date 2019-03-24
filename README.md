@@ -4,6 +4,7 @@ Given a short descriptive answer can we give it the correct score?
 
 dependencies are freezed in requirenment.txt
 
+link to the proposal review - https://review.udacity.com/#!/reviews/1759916
 
 ## Running the models
 
